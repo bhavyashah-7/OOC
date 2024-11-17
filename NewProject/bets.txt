@@ -1,3 +1,0 @@
-ktk,Barcelona,1000
-ktk,Serena Williams,50
-samarth,Real Madrid,500
